@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UziSecureSmtpClient", "UziSecureSmtpClient\UziSecureSmtpClient.csproj", "{52A952B8-6CD5-4489-8020-098C5F329B13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSecureSmtpClient", "TestSecureSmtpClient\TestSecureSmtpClient.csproj", "{29304F44-02A4-42BC-B5F5-26D2EE756EB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMailRefreshToken", "GMailRefreshToken\GMailRefreshToken.csproj", "{A1E23019-792D-4257-AD14-021B78AA9983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52A952B8-6CD5-4489-8020-098C5F329B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A952B8-6CD5-4489-8020-098C5F329B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A952B8-6CD5-4489-8020-098C5F329B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A952B8-6CD5-4489-8020-098C5F329B13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29304F44-02A4-42BC-B5F5-26D2EE756EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29304F44-02A4-42BC-B5F5-26D2EE756EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29304F44-02A4-42BC-B5F5-26D2EE756EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29304F44-02A4-42BC-B5F5-26D2EE756EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1E23019-792D-4257-AD14-021B78AA9983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E23019-792D-4257-AD14-021B78AA9983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E23019-792D-4257-AD14-021B78AA9983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E23019-792D-4257-AD14-021B78AA9983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
